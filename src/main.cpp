@@ -10,7 +10,7 @@ const char* password = "Anu096279";
 
 //ip host
 const char* host = ".................................";
-const char* host1 = "google.co.th";
+const char* host1 = "google.com";
 
 //รหัส Blynk
 char auth[] = "ONBkinvEfvLm661cyF-lCw8z4Sr56xgv";
